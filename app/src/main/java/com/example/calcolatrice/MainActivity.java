@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
 
         int n1 = Integer.parseInt(String.valueOf(mNum1.getText()));
         int n2 = Integer.parseInt(String.valueOf(mNum2.getText()));
-        int res = n1/n2;
-        mResult.setText(Integer.toString(res));
+        double res = (double)n1/n2;
+        mResult.setText(Double.toString(res));
     }
 }

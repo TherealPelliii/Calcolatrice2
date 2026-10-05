@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">Calcolatrice</string>
-    <string name="plain_text_number1">Number 1</string>
-    <string name="plain_text_number2">Number 2</string>
-    <string name="show_result">Result</string>
+    <string name="txtNumber1">Number 1</string>
+    <string name="txtNumber2">Number 2</string>
+    <string name="lblResult">Result</string>
     <string name="button_label_plus">+</string>
     <string name="button_label_minus">-</string>
     <string name="button_label_multiplication">X</string>
